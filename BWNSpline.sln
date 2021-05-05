@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BWNSpline", "BWNSpline.vbproj", "{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		mahmmoud|Any CPU = mahmmoud|Any CPU
+		mahmmoud|Itanium = mahmmoud|Itanium
+		mahmmoud|x64 = mahmmoud|x64
+		mahmmoud|x86 = mahmmoud|x86
+		mahmoud32|Any CPU = mahmoud32|Any CPU
+		mahmoud32|Itanium = mahmoud32|Itanium
+		mahmoud32|x64 = mahmoud32|x64
+		mahmoud32|x86 = mahmoud32|x86
+		mahmoud64|Any CPU = mahmoud64|Any CPU
+		mahmoud64|Itanium = mahmoud64|Itanium
+		mahmoud64|x64 = mahmoud64|x64
+		mahmoud64|x86 = mahmoud64|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|Itanium.Build.0 = Debug|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|x64.ActiveCfg = Debug|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|x64.Build.0 = Debug|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|x86.ActiveCfg = Debug|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Debug|x86.Build.0 = Debug|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|Any CPU.ActiveCfg = mahmmoud|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|Any CPU.Build.0 = mahmmoud|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|Itanium.ActiveCfg = mahmmoud|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|Itanium.Build.0 = mahmmoud|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|x64.ActiveCfg = mahmmoud|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|x64.Build.0 = mahmmoud|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|x86.ActiveCfg = mahmmoud|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmmoud|x86.Build.0 = mahmmoud|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|Any CPU.ActiveCfg = mahmoud32|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|Any CPU.Build.0 = mahmoud32|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|Itanium.ActiveCfg = mahmoud32|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|Itanium.Build.0 = mahmoud32|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|x64.ActiveCfg = mahmoud32|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|x64.Build.0 = mahmoud32|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|x86.ActiveCfg = mahmoud32|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud32|x86.Build.0 = mahmoud32|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|Any CPU.ActiveCfg = mahmoud64|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|Any CPU.Build.0 = mahmoud64|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|Itanium.ActiveCfg = mahmoud64|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|Itanium.Build.0 = mahmoud64|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|x64.ActiveCfg = mahmoud64|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|x64.Build.0 = mahmoud64|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|x86.ActiveCfg = mahmoud64|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.mahmoud64|x86.Build.0 = mahmoud64|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|Itanium.ActiveCfg = Release|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|Itanium.Build.0 = Release|Itanium
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|x64.ActiveCfg = Release|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|x64.Build.0 = Release|x64
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|x86.ActiveCfg = Release|x86
+		{09317306-0D0E-44DE-8DDE-50C8C5F49BC2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
