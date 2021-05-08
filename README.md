@@ -4,3 +4,11 @@ A VB.Net program for draw BWN-Spline curve based on [1]. This program is part of
   
 **[1]** Sarfraz, Muhammad. "Designing objects with a spline." *International Journal of Computer Mathematics* 87, no. 4 (2010): 797-817.
   
+
+
+
+
+[Watch the video on how it works!](https://github.com/smahmoudkh/BWNSpline/blob/main/BWNSpline.mp4)
+
+![BWNSpline](https://github.com/smahmoudkh/BWNSpline/blob/main/BWNSpline.png)
+
